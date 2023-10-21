@@ -1,10 +1,17 @@
 import logo from './logo.svg';
-import './App.css';
-import Navbar from './Components/Navbar/Navbar';
+// import './App.css';
+import { BrowserRouter as Router, Routes, Route, BrowserRouter } from "react-router-dom";
+import Main from './main.jsx';
+import AdoptMe from './AdoptMe.jsx';
 
 function App() {
   return (
-    <Navbar/>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Main />}></Route>
+        <Route path='/AdoptMe' element={<AdoptMe />}></Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
