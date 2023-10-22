@@ -7,7 +7,8 @@
 </div>
 
 ### About the Project
-> This web application aims to connect users with local vendors in their area, allowing them to purchase groceries and other goods directly from these vendors. Unlike the existing local application called City Mall, which doesn't offer the option to buy from specific shops, this application will enable users to select the shops they prefer. The main goal is to establish a direct connection between users and local shops for purchasing goods. For instance, if a user wants to buy flour from a particular local shop that isn't a well-known brand but offers high-quality and affordable flour, this application will assist them in doing so. To address the challenge of gathering a comprehensive dataset, we propose a solution where shopkeepers themselves can input their goods into the application. This approach is similar to how Google Maps allows users to add new places they discover to the database. In summary, the application will have two separate logins: one for users and another for shopkeepers.
+> 
+The PetMitra platform is designed to be a comprehensive resource for pet owners and animal lovers alike, offering a range of valuable features to support the welfare of our furry companions. In the highlights section, users can access up-to-date information on lost pets, providing a vital resource for reuniting pets with their owners. Additionally, the Adoption Portal serves as a hub for those seeking to provide a loving home for abandoned animals, promoting pet adoption and responsible pet ownership. The heart of our community lies in the Community and Social Features, where pet enthusiasts can come together to connect, share heartwarming stories, offer advice, and exchange photos of their beloved pets. By combining these essential elements, our platform fosters a sense of belonging and support for pet owners while actively contributing to the well-being of pets in need.
 
 ### Tech Stack
 
