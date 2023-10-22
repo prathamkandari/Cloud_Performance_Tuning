@@ -21,7 +21,7 @@ The PetMitra platform is designed to be a comprehensive resource for pet owners 
 2. Clone your forked repository
 
 ```sh
- git clone https://github.com/<your_github_username>/OSoC-Swayam-Bazaar.git
+ git clone https://github.com/<your_github_username>/Cloud_Performance_Tuning.git
 ```
 3. Now go ahead and create a new branch and move to the branch
    ```sh
