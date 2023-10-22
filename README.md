@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+<div align='center'>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Swayam-Bazaar
 
-## Available Scripts
+<img src='https://github.com/upes-open/Git-WorkShop/assets/101355193/b9315c8e-5aaa-438e-ab5a-48b25571dc90' width=100>
 
-In the project directory, you can run:
+![Static Badge](https://img.shields.io/badge/Discord-202020?logo=discord&logoColor=%235865F2&link=http%3A%2F%2Fdiscord.gg%2F2rnWsvkX) ![Static Badge](https://img.shields.io/badge/Twitter-202020?logo=twitter&logoColor=%231DA1F2&link=https%3A%2F%2Ftwitter.com%2FUpesOpen) ![Static Badge](https://img.shields.io/badge/Instagram-202020?logo=instagram&logoColor=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fupesopen_%2F)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![GitHub contributors](https://img.shields.io/github/contributors/upes-open/OSoc-Swayam-Bazaar)
+![GitHub forks](https://img.shields.io/github/forks/upes-open/OSoc-Swayam-Bazaar)
+![GitHub Repo stars](https://img.shields.io/github/stars/upes-open/OSoc-Swayam-Bazaar)
+![GitHub issues](https://img.shields.io/github/issues/upes-open/OSoc-Swayam-Bazaar)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `npm run build`
+### About the Project
+> This web application aims to connect users with local vendors in their area, allowing them to purchase groceries and other goods directly from these vendors. Unlike the existing local application called City Mall, which doesn't offer the option to buy from specific shops, this application will enable users to select the shops they prefer. The main goal is to establish a direct connection between users and local shops for purchasing goods. For instance, if a user wants to buy flour from a particular local shop that isn't a well-known brand but offers high-quality and affordable flour, this application will assist them in doing so. To address the challenge of gathering a comprehensive dataset, we propose a solution where shopkeepers themselves can input their goods into the application. This approach is similar to how Google Maps allows users to add new places they discover to the database. In summary, the application will have two separate logins: one for users and another for shopkeepers.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Static Badge](https://img.shields.io/badge/NodeJS-101010?logo=nodedotjs&logoColor=%23339933) ![Static Badge](https://img.shields.io/badge/MongoDB-101010?logo=mongodb&logoColor=%2347A248) ![Static Badge](https://img.shields.io/badge/ReactJS-101010?logo=react&logoColor=%2361DAFB) ![Static Badge](https://img.shields.io/badge/HTML-101010?logo=html5&logoColor=%23E34F26) ![Static Badge](https://img.shields.io/badge/JavaScript-101010?logo=javascript&logoColor=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/Docker-101010?logo=docker&logoColor=%232496ED) ![Static Badge](https://img.shields.io/badge/CSS-202020?logo=css3&logoColor=%231572B6)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Fork the Project
+2. Clone your forked repository
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+ git clone https://github.com/<your_github_username>/OSoC-Swayam-Bazaar.git
+```
+3. Now go ahead and create a new branch and move to the branch
+   ```sh
+   git checkout -b fix-issue-<ISSUE-NUMBER>
+   ```
+4. After you have added your changes, follow the following command chain
+   * Check the changed files
+    ```sh
+     git status -s
+     ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   * Add all the files to the staging area
+      ```sh
+     git add .
+     ```
+     or
+     ```sh
+     git add <file_name1> <file_name2>
+     ```
+   * Commit your changes
+    ```sh
+     git commit -m "<EXPLAIN-YOUR_CHANGES>"
+     ```
+5. Push your changes
+   ```sh
+   git push origin fix-issue-<ISSUE-NUMBER>
+   ```
+6. Open a Pull Request 
+>
+> * Wait for the PR to be reviewed and merged.
+>
+> * Happy Coding!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
