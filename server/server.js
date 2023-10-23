@@ -1,16 +1,18 @@
+require('dotenv').config()
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const UKModel = require("../src/models/schema");
+const mongoURI = process.env.MONGO_URI;
 
 const app = express();
 app.use(express.json());
 app.use(cors());
 
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3001;  
 
 mongoose
-    .connect('mongodb+srv://prathamrushil:JVOHZzHx0gPmXkEe@cluster0.nymtgst.mongodb.net/', {
+    .connect(mongoURI, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         autoIndex: true,
