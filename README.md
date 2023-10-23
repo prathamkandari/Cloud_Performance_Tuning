@@ -6,7 +6,7 @@
 
 </div>
 
-### About the Project
+## About the Project
 > 
 The PetMitra platform is designed to be a comprehensive resource for pet owners and animal lovers alike, offering a range of valuable features to support the welfare of our furry companions. In the highlights section, users can access up-to-date information on lost pets, providing a vital resource for reuniting pets with their owners. Additionally, the Adoption Portal serves as a hub for those seeking to provide a loving home for abandoned animals, promoting pet adoption and responsible pet ownership. The heart of our community lies in the Community and Social Features, where pet enthusiasts can come together to connect, share heartwarming stories, offer advice, and exchange photos of their beloved pets. By combining these essential elements, our platform fosters a sense of belonging and support for pet owners while actively contributing to the well-being of pets in need.
 
