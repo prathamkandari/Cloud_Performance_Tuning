@@ -188,67 +188,19 @@ export default function Main() {
                 </div>
             </section>
 
-            <section className="ftco-section">
-                <div className="container">
-                    <div className="row justify-content-center mb-5">
-                        {/* <div className="col-md-10 text-center heading-section">
-              <span className="subheading">Explore Case Studies</span>
-              <h2 className="mb-4">1000+ Completed Cases Successfully</h2>
-            </div> */}
-                    </div>
-                    {/* <div className="row">
-            <div className="col-md-12">
-              <div className="carousel-case owl-carousel ">
-                <div className="item">
-                  <div className="case img d-flex align-items-center justify-content-center" style={{ backgroundImage: 'url("images/case-1.jpg")' }}>
-                    <div className="text text-center">
-                      <h3><a href={{}}>Legal Seperation</a></h3>
-                      <span>Corporate</span>
-                    </div>
-                  </div>
-                </div>
-                <div className="item">
-                  <div className="case img d-flex align-items-center justify-content-center" style={{ backgroundImage: 'url("images/case-2.jpg")' }}>
-                    <div className="text text-center">
-                      <h3><a href={{}}>Legal Seperation</a></h3>
-                      <span>Corporate</span>
-                    </div>
-                  </div>
-                </div>
-                <div className="item">
-                  <div className="case img d-flex align-items-center justify-content-center" style={{ backgroundImage: 'url("images/case-3.jpg")' }}>
-                    <div className="text text-center">
-                      <h3><a href={{}}>Legal Seperation</a></h3>
-                      <span>Corporate</span>
-                    </div>
-                  </div>
-                </div>
-                <div className="item">
-                  <div className="case img d-flex align-items-center justify-content-center" style={{ backgroundImage: 'url("images/case-4.jpg")' }}>
-                    <div className="text text-center">
-                      <h3><a href={{}}>Legal Seperation</a></h3>
-                      <span>Corporate</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-12 text-center mt-4">
-              <a href="case.html" className="btn btn-primary px-5">See All Successful Projects</a>
-            </div>
-          </div> */}
-                </div>
-            </section>
-
-
             {/*Adopt Us*/}
-
+            <br/>
+            <br/>
+            <br/>
+            <br/>
             <section className="pet-card-flex">
                 <div>
                     <h1 className="m-heading text-3xl lg:text-6xl hover:shadow-2xl antialiased hover:subpixel-antialiased">
                         Meet our Friends Here
                     </h1>
                 </div>
+                <br/>
+                <br/>
                 <div className="one-line-card" id="meet">
                     {/* Card 1 */}
                     <div className="main-card card-height shadow-2xl">
@@ -585,7 +537,7 @@ export default function Main() {
                         <div className="col-md-4 d-flex ">
                             <div className="blog-entry justify-content-end">
                                 <div className="text px-4 py-4">
-                                    <h3 className="heading mb-0"><a href={{}}>All you want to know about industrial laws</a></h3>
+                                    <h3 className="heading mb-0"><a href={{}}>All you want to know about PetMitra Society</a></h3>
                                 </div>
                                 <a href="blog-single.html" className="block-20" style={{ backgroundImage: 'url("images/image_1.jpg")' }}>
                                 </a>
@@ -607,7 +559,7 @@ export default function Main() {
                         <div className="col-md-4 d-flex">
                             <div className="blog-entry justify-content-end">
                                 <div className="text px-4 py-4">
-                                    <h3 className="heading mb-0"><a href={{}}>All you want to know about industrial laws</a></h3>
+                                    <h3 className="heading mb-0"><a href={{}}>All you want to know about PetMitra Society</a></h3>
                                 </div>
                                 <a href="blog-single.html" className="block-20" style={{ backgroundImage: 'url("images/image_2.jpg")' }}>
                                 </a>
@@ -629,9 +581,9 @@ export default function Main() {
                         <div className="col-md-4 d-flex ">
                             <div className="blog-entry justify-content-end">
                                 <div className="text px-4 py-4">
-                                    <h3 className="heading mb-0"><a href={{}}>All you want to know about industrial laws</a></h3>
+                                    <h3 className="heading mb-0"><a href={{}}>All you want to know about PetMitra Society</a></h3>
                                 </div>
-                                <a href="blog-single.html" className="block-20" style={{ backgroundImage: 'url("images/image_3.jpg")' }}>
+                                <a href="blog-single.html" className="block-20" style={{ backgroundImage: 'url("images/image_3.jpeg")' }}>
                                 </a>
                                 <div className="text p-4 float-right d-block">
                                     <div className="topper d-flex align-items-center">
