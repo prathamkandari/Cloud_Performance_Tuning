@@ -2,7 +2,10 @@
 
 ## PETMITRA
 
-
+<div align="center">
+  
+<img src=".images/PetMitra.png" width="300" />
+</div>
 
 </div>
 
