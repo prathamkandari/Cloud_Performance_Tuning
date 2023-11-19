@@ -6,11 +6,8 @@ import AdoptMe from './AdoptMe';
 import './AdoptMe.css';
 import Gret from './imgs/goldern-ret.jpg';
 import pug from './imgs/pug.jpg';
-import ragdo from './imgs/ragdo.jpg';
-import husky from './imgs/husky.jpg';
 import location from './imgs/loation-icon.svg';
 import dogicon from './imgs/dog-icon.svg';
-import caticon from './imgs/cat.png';
 
 export default function Main() {
     const formik = useFormik({
@@ -189,18 +186,18 @@ export default function Main() {
             </section>
 
             {/*Adopt Us*/}
-            <br/>
-            <br/>
-            <br/>
-            <br/>
+            <br />
+            <br />
+            <br />
+            <br />
             <section className="pet-card-flex">
                 <div>
                     <h1 className="m-heading text-3xl lg:text-6xl hover:shadow-2xl antialiased hover:subpixel-antialiased">
                         Meet our Friends Here
                     </h1>
                 </div>
-                <br/>
-                <br/>
+                <br />
+                <br />
                 <div className="one-line-card" id="meet">
                     {/* Card 1 */}
                     <div className="main-card card-height shadow-2xl">

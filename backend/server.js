@@ -2,7 +2,7 @@ require('dotenv').config()
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
-const UKModel = require("../src/models/schema");
+const UKModel = require("./models/schema");
 const mongoURI = process.env.MONGO_URI;
 
 const app = express();
